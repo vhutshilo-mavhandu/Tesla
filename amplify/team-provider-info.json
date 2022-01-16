@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-tesla-dev-213042-authRole",
+      "UnauthRoleArn": "arn:aws:iam::494792045918:role/amplify-tesla-dev-213042-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::494792045918:role/amplify-tesla-dev-213042-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-tesla-dev-213042-deployment",
+      "UnauthRoleName": "amplify-tesla-dev-213042-unauthRole",
+      "StackName": "amplify-tesla-dev-213042",
+      "StackId": "arn:aws:cloudformation:us-east-1:494792045918:stack/amplify-tesla-dev-213042/82753e00-5ddd-11ec-a4b9-0a12c2db08f1",
+      "AmplifyAppId": "dan7ysqfmxur4"
+    },
+    "categories": {
+      "auth": {
+        "teslaacd1b643": {}
+      }
+    }
+  }
+}
